@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpSocksServerCore", "SharpSocksServerCore\SharpSocksServerCore.csproj", "{DF279110-EBF8-42D0-B8C0-BEFEA98364A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF279110-EBF8-42D0-B8C0-BEFEA98364A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF279110-EBF8-42D0-B8C0-BEFEA98364A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF279110-EBF8-42D0-B8C0-BEFEA98364A2}.Release|Any CPU.ActiveCfg = Release|x64
+		{DF279110-EBF8-42D0-B8C0-BEFEA98364A2}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D90F352-9429-4D78-8E38-9C1F72DF1BFE}
+	EndGlobalSection
+EndGlobal
