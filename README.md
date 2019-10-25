@@ -1,5 +1,7 @@
 # SocksServerCore
 
+Netitude SharpSocks. 
+
 To compile for running on Linux:
 
 * Right click on the Project (not the solution) in the Solution Explorer pane and select "Publish" 
